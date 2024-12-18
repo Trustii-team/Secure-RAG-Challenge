@@ -114,7 +114,7 @@ Ahmed's innovative retrieval and re-ranking strategy earned him the second posit
 
 ## 3. Param 🥉
 
-[Repository Link](https://github.com/username/student-repo)
+[Repository Link](https://github.com/ParamThakkar123/Secure-Local-Offline-Rag-System)
 
 [AI Assistant Link](https://app.understand.tech/?api_key=544b99f6f55febc26ad1d60cf4ce86c538c34c39ef3f1feb76e851383554335e&model_id=Param%20team%20RAG%20Pipeline%20solution)
 
