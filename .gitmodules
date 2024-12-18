@@ -1,0 +1,15 @@
+[submodule "abdoulaye-secure-rag-pipeline"]
+	path = abdoulaye-secure-rag-pipeline
+	url = https://github.com/Abdoulaye-Sayouti/Secure-Offline-RAG-System
+[submodule "ahmed-secure-rag-pipeline"]
+	path = ahmed-secure-rag-pipeline
+	url = https://github.com/benx13/grogChalleng
+[submodule "param-secure-rag-pipeline"]
+	path = param-secure-rag-pipeline
+	url = https://github.com/ParamThakkar123/Secure-Local-Offline-Rag-System
+[submodule "shravan-secure-rag-pipeline"]
+	path = shravan-secure-rag-pipeline
+	url = https://github.com/shravankoninti/Secure_Offline_RAG_System
+[submodule "dao-secure-rag-pipeline"]
+	path = dao-secure-rag-pipeline
+	url = https://github.com/duongkstn/trustii-secure-rag-system
